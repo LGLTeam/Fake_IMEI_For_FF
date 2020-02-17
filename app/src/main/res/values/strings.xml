@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fake IMEI for FF</string>
+    <string name="empty">Empty</string>
+    <string name="fake_imei">Fake IMEI</string>
+    <string name="note">This feature can only unban your device. It cannot unban your account. On Android 10 this may not be needed. A privacy changes has made so apps cannot get IMEI anymore</string>
+</resources>

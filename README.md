@@ -1,4 +1,4 @@
-# Fake_IMEI_For_FF
+# Fake IMEI For FF
 An app that generates random IMEI and saves the ffid.txt into /sdcard
 
 Android 6.0 and up: Storage permission is required
