@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 e.printStackTrace();
             }
         } else {
-            tIM.setText("File \"ffid.txt\" does not exist. Click to FAKE IMEI to Unlock Banned Device!");
+            tIM.setText("File \"ffid.txt\" has not been created. Click FAKE IMEI to unban your device!");
         }
         bIM.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
